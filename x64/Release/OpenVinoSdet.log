@@ -1,0 +1,24 @@
+﻿  OpenVinoSdet.cpp
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(18,59): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(19,63): warning C4244: аргумент: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(187,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(188,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(282,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(283,31): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(291,19): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Emil\Documents\Intel\OpenVINO\OpenVinoSdet\OpenVinoSdet.cpp(292,19): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  OpenVinoSdetInterface.cpp
+     Создается библиотека C:\Users\Emil\Documents\Intel\OpenVINO\inference_engine_cpp_samples_build\x64\Release\OpenVinoSdet.lib и объект C:\Users\Emil\Documents\Intel\OpenVINO\inference_engine_cpp_samples_build\x64\Release\OpenVinoSdet.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 489 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OpenVinoSdet.vcxproj -> C:\Users\Emil\Documents\Intel\OpenVINO\inference_engine_cpp_samples_build\x64\Release\OpenVinoSdet.dll
