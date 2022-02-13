@@ -14,4 +14,4 @@ The project contains the following files:
 2. <b>OpenVinoSdet.cpp  and  OpenVinoSdetInterface.xpp</b> - realizatons
 
 
-
+![](1.jpg)
